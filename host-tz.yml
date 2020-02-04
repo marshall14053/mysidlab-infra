@@ -1,7 +1,7 @@
 ---
 
 - name: Configure instance
-  hosts: all
+  hosts: ¯\_(ツ)_/¯-host
   gather_facts: False
   become: true
   vars:
