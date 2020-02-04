@@ -5,7 +5,7 @@
   gather_facts: False
   become: true
   vars:
-    hostname: skynet01
+    hostname: skynet
     tz: Antarctica/McMurdo
     token: T04NJ722U/BQB4MBBHV/RZPNWsz38MD1WtuVcena5reb
     
